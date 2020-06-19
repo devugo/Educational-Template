@@ -38,11 +38,12 @@ html {
 
 /* Start Navbar */
 .navbar {
-  background: #DBE2EF;
+  background: #fff;
   position: fixed;
   width: 100%;
   padding-left: 25px;
   padding-right: 25px;
+  z-index: 9999;
 }
 
 .signin {
